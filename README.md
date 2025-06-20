@@ -28,3 +28,15 @@
 #Logout
 ![logout](https://github.com/user-attachments/assets/4381910a-9012-416d-a19f-27cdb41c2c09)
 
+
+
+##Setup 
+⚙ Backend Setup
+cd backend
+npm install      # Only for the first time
+npm run dev
+
+⚙ Frontend Setup
+cd frontend
+npm install      # Only for the first time
+npm run dev
