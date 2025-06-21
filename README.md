@@ -30,7 +30,9 @@
 
 
 
-##Setup 
+## ⚙Setup
+```bash
+
 ⚙ Backend Setup
 cd backend
 npm install      # Only for the first time
